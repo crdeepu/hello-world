@@ -1,2 +1,3 @@
 # hello-world
-I am an art director working with Imagic Communications for the last ten years
+I am an art director working with Imagic Communications for the last ten years.
+looking forward.
